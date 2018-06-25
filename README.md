@@ -1,25 +1,22 @@
-# tradingview-alert-binance-trader
+<h1 align="center">tradingview-alert-binance-trader</h1>
 
 This trading bot listens to the TradingView alert emails on your inbox and executes trades on Binance based on the parameters set on the TD alerts.
 
 <h4>
-Please starify this repo if you want me to release this trading bot as an open source project. If I get 10 stars, I will release it.</h4>
-
-JSapp.me
-
+Please starify this repo if you want me to release this trading bot as an open source project. If I get 10 stars, I will release it.
+</h4>
 
 <p align="center">
-  <br>
   <img src="nbt_demo.gif">
 </p>
-
-<h1 align="center">tradingview-alert-binance-trader</h1>
 
 <p align="center">
   <a href="https://discord.gg/4EQrEgj"><img alt="Discord chat" src="Discord_button.png" /></a>
 </p>
 
-<h2 align="center">This trading bot listens to the TradingView alert emails on your inbox and executes trades on Binance based on the parameters set on the TD alerts using Node.js</h2>
+<h2 align="center">
+  This trading bot is based on Node.js
+</h2>
 
 <p align="center">
   <img alt="Discord chat" src="Screenshot.png" />
