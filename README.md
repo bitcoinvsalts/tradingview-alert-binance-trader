@@ -5,3 +5,5 @@
 </h3>
 
 # Time to upgrade your crypto trading 🤔
+
+[![](tradingview-alert.png)](https://bitcoinvsaltcoins.com)
