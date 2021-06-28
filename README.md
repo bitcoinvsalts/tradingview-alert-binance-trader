@@ -6,7 +6,8 @@ The format of the Trading View alert text should be:
 
 ```your_bva_key|your strategy name|{{strategy.order.action}}|{{ticker}}```
 
-**your_bva_key** is your BVA key you can find after signing up at https://bitcoinvsaltcoins.com/
+**your_bva_key** is your BVA key you can find after signing up at https://bitcoinvsaltcoins.com
+
 **your strategy name** is the name of your strategy name, changing it will track a new strategy.
 
 [![](tradingview-alert.png)](https://bitcoinvsaltcoins.com)
