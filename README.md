@@ -11,3 +11,6 @@ The format of the Trading View alert text should be:
 **your strategy name** is the name of your strategy name, changing it will track a new strategy.
 
 [![](tradingview-alert.png)](https://bitcoinvsaltcoins.com)
+
+
+<a href="https://bitcoinvsalts.com" target="_new">Crypto Trading Strategy Marketplace</a>
